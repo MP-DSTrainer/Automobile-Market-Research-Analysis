@@ -36,17 +36,16 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 - Which car model is best for child safety features?
 - Which car body type is most preferred by customers?
 
-- Dashboard Interaction <a href="https://app.powerbi.com/links/QeX46mgkQ0?ctid=296761d3-9445-4e90-a980-e6216b7ef72a&pbi_source=linkShare&bookmarkGuid=371804a9-b9ed-4b32-a5db-c71a94669e7f">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created kpi according to the questions asked.
-- load all all tables into one dashboard and apply slicer to make dynamic.
+- Load all all tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
-![Screenshot (495)](https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link)
+Dashboard Interaction <a href="https://app.powerbi.com/links/QeX46mgkQ0?ctid=296761d3-9445-4e90-a980-e6216b7ef72a&pbi_source=linkShare&bookmarkGuid=371804a9-b9ed-4b32-a5db-c71a94669e7f">View Dashboard</a>
+Dashboard View <a href="https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link"> PDF View</a>
 
 
 
