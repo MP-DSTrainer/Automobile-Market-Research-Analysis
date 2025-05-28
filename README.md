@@ -20,7 +20,8 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 
 ## Dataset used
 - <a href="https://docs.google.com/spreadsheets/d/1P2mB0Z4Gn9FyUBhj2cI443nRjnSgNx34/edit?usp=drive_link&ouid=101368825255311313144&rtpof=true&sd=true">Dataset</a>
-
+  
+- <a href="https://docs.google.com/spreadsheets/d/18Mg7vSQWKPVuhnZGtm4y_h3oE1eCaVnW/edit?usp=drive_link&ouid=101368825255311313144&rtpof=true&sd=true">Dataset Decription</a>
 ## Questions (KPIs)
 - Which car model offers the highest number of preferred features?
 - Which car maker has the highest number of models with top-rated features?
