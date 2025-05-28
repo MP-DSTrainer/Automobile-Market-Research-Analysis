@@ -22,18 +22,18 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 - <a href="https://docs.google.com/spreadsheets/d/1P2mB0Z4Gn9FyUBhj2cI443nRjnSgNx34/edit?usp=drive_link&ouid=101368825255311313144&rtpof=true&sd=true">Dataset</a>
 
 ## Questions (KPIs)
-Which car model offers the highest number of preferred features?
-Which car maker has the highest number of models with top-rated features?
-What is the average number of preferred features per car maker?
-Which features are most commonly preferred across all models?
-Which car maker has the highest customer satisfaction rating based on features?
-What is the distribution of preferred features across car segments (SUV, Sedan, Hatchback)?
-What percentage of a car maker's models include the top 5 preferred features?
-Which car maker leads in safety, entertainment, and performance features?
-Which car maker offers the best fuel efficiency?
-Which car is best suited for adventure driving?
-Which car model is best for child safety features?
-Which car body type is most preferred by customers?
+- Which car model offers the highest number of preferred features?
+- Which car maker has the highest number of models with top-rated features?
+- What is the average number of preferred features per car maker?
+- Which features are most commonly preferred across all models?
+- Which car maker has the highest customer satisfaction rating based on features?
+- What is the distribution of preferred features across car segments (SUV, Sedan, Hatchback)?
+- What percentage of a car maker's models include the top 5 preferred features?
+- Which car maker leads in safety, entertainment, and performance features?
+- Which car maker offers the best fuel efficiency?
+- Which car is best suited for adventure driving?
+- Which car model is best for child safety features?
+- Which car body type is most preferred by customers?
 
 - Dashboard Interaction <a href="https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link">View Dashboard</a>
 
